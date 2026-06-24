@@ -48,6 +48,6 @@ frontend
 
 **Communication:** WebSockets
 
-**Build Tools:** Maven
+**Build Tools:** Gradle
 
 **Frontend:** Passenger UI, Driver UI
